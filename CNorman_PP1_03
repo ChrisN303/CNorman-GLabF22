@@ -1,0 +1,16 @@
+int x=5;
+int y=5;
+size(500,500);
+{
+	ellipse(x+250,y+220,x+75,y+75); //center
+	ellipse(x+210,y+190,x+65.7,y+43.2); 
+	ellipse(x+296,y+200,x+77,y+42);
+	ellipse(x+200,y+242,x+64,y+32);
+	ellipse(x+285,y+268,x+75,y+45);
+	ellipse(x+254,y+170,x+22,y+43);
+	line(250,260,250,500);
+	
+	ellipse(x+227,y+330,x+70,y+20);
+	ellipse(x+267,y+352,x+70,y+20);
+
+}
